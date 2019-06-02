@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.column {
+  width: 400px;
+  float: left;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+img {
+  width: 300px;
+  border-radius: 30%;
+}
